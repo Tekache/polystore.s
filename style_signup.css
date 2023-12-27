@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Roboto;
+}
+
+.signup{
+    color: red;
+}
+
+.submit{
+    text-justify: end;
+    background-color: black;
+}
+
+.footer{
+    background: conic-gradient(from -1.46deg at 50% 50%, rgba(22, 0, 255, 0.5) -51.48deg, rgba(213, 212, 218, 0.988568) 143.22deg, #DFDCFA 182.58deg, rgba(22, 0, 255, 0.5) 308.52deg, rgba(213, 212, 218, 0.988568) 503.22deg);
+}
